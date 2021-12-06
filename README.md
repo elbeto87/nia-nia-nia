@@ -13,7 +13,7 @@ python3 nianiania.py
 
 ## Usage
 
-```json
+```
 Ingrese una frase a traducir:
 Me parece que es una aplicación sumamente infantil
 mi pirici qui is ini ipliquición simiminti infintil
